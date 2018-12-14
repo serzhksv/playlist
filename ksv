@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Киноман ATV
+http://ott-cdn.ucom.am/s66/01.m3u8
+#EXTINF:-1,Vip comedy HD
+http://hls-viasat.cdnvideo.ru/hls/relay/1502288433562/index.m3u8
+#EXTINF:-1,Страшное HD
+http://185.10.211.10:9153/play/a007
+#EXTINF:-1,НСТ Страшное
+http://109.248.236.41:4433/udp/238.1.1.123:1234
+#EXTINF:-1,Фильмы
+http://v2.myowntv.org/content/35015/index.m3u8
+#EXTINF:-1,Мужское кино HD
+http://185.10.211.10:7072/play/a00j
+#EXTINF:-1,Кинохит HD
+http://185.10.211.10:7072/play/a02p
+#EXTINF:-1,Киносвидание HD
+http://185.10.211.10:7072/play/a003
+#EXTINF:-1,Кинопремьера HD
+http://109.248.236.41:4433/udp/238.1.1.19:1234
+#EXTINF:-1,TV 1000 HD
+http://185.10.211.10:9153/play/a029
+#EXTINF:-1,TV 1000 Action HD
+http://185.10.211.10:9153/play/a00k
+#EXTINF:-1,BOLT HD RU
+http://185.10.211.10:9153/play/a02t
+#EXTINF:-1,BOLT HD
+http://185.10.211.10:9153/play/a02x
+#EXTINF:-1,BOLT
+http://185.185.252.120:8877/24
+#EXTINF:-1,Spike HD
+http://185.10.211.10:9153/play/a00b
+#EXTINF:-1,Paramount channel HD
+http://185.10.211.10:9153/play/a00m
+#EXTINF:-1,Paramount comedy HD
+http://185.10.211.10:9153/play/a00u
+#EXTINF:-1,1 Мистический
+http://mnogo-tv.com:54377/tv/mistika/index.m3u8
+#EXTINF:-1,Fantasy TV
+http://mnogo-tv.com:54377/tv/Fantasy/index.m3u8
+#EXTINF:-1,Disney channel
+http://185.10.211.10:9153/play/a01b
+#EXTINF:0,ТНТ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:0,ТВ3
+http://176.101.224.21:8080/udp/239.195.32.15:1234
+#EXTINF:-1,Квартал тв
+http://185.10.211.10:9153/play/a03m
